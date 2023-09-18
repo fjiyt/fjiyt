@@ -1,3 +1,3 @@
-# Hi there! I'm JY
+# Hi there!
 
 🔭 I’m a Software Development Engineer
